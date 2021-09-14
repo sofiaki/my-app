@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sofiaki.github.io/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/sofiaki.github.io/static/js/main.8465ceaa.chunk.js",
+    "main.js.map": "/sofiaki.github.io/static/js/main.8465ceaa.chunk.js.map",
+    "runtime-main.js": "/sofiaki.github.io/static/js/runtime-main.ac831323.js",
+    "runtime-main.js.map": "/sofiaki.github.io/static/js/runtime-main.ac831323.js.map",
+    "static/js/2.e6587d7b.chunk.js": "/sofiaki.github.io/static/js/2.e6587d7b.chunk.js",
+    "static/js/2.e6587d7b.chunk.js.map": "/sofiaki.github.io/static/js/2.e6587d7b.chunk.js.map",
+    "index.html": "/sofiaki.github.io/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/sofiaki.github.io/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.e6587d7b.chunk.js.LICENSE.txt": "/sofiaki.github.io/static/js/2.e6587d7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac831323.js",
+    "static/js/2.e6587d7b.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.8465ceaa.chunk.js"
+  ]
+}
